@@ -1,2 +1,2 @@
-# shreeman
-#AZ-GAG-data : stores the Korean AZ-gag.
+# AZ_GAG_dataset
+datasets for 아재개그.
